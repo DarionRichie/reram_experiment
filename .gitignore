@@ -1,0 +1,6 @@
+cmake-build-debug/
+.idea/
+*csv
+*txt
+./Jerasure/*
+./gf-complete/*
